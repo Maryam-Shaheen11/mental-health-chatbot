@@ -27,8 +27,7 @@ A fine-tuned AI chatbot that provides supportive, empathetic responses for stres
 - Deployment using Streamlit Cloud
 
 ## Live Demo
-
-[Add your Streamlit app link here after deployment]
+https://mental-health-chatbot-nlvkyqsdpas897kezgyzix.streamlit.app
 
 ## Run Locally
 
